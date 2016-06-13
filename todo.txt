@@ -1,2 +1,1 @@
-
-Now on "pointint out forms to the new URLS" on chapter 6
+"But how to use that URL in the form?"
