@@ -1,1 +1,2 @@
-Stopped on Chapter 6 "A url and view for New list Creation"
+
+Now on "pointint out forms to the new URLS" on chapter 6

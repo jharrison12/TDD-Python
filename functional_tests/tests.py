@@ -1,14 +1,16 @@
 from django.test import LiveServerTestCase
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import unittest
+#import unittest
+from pyvirtualdisplay import Display
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 class NewVisitorTest(LiveServerTestCase):
-	
+
 	def setUp(self):
-		self.browser = webdriver.Firefox()
+		self.browser = webdriver.Firefox() 
 		self.browser.implicitly_wait(3)
-	
+
 	def tearDown(self):
 		self.browser.quit()
 	
