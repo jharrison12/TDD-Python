@@ -1,1 +1,1 @@
-Using get_absolute_url for redirects
+1. Cover get_absolute_url again
