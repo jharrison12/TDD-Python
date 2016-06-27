@@ -1,1 +1,2 @@
 1. Cover get_absolute_url again
+Start on using them form's own save method
