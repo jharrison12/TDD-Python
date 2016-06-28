@@ -62,5 +62,8 @@ class ItemValidationTest(FunctionalTest):
 		self.get_item_input_box().send_keys('a')
 
 		#She is pleased to see that the error message disappears
+		import time
+		time.sleep(2)
 		error = self.get_error_element()
+		time.sleep(2)
 		self.assertFalse(error.is_displayed())
