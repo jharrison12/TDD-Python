@@ -1,2 +1,2 @@
-Start on chapter 13
+De-spiking
 1. Cover get_absolute_url again
