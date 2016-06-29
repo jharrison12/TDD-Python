@@ -1,2 +1,3 @@
 De-spiking
+TEST
 1. Cover get_absolute_url again
