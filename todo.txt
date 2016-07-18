@@ -1,3 +1,5 @@
-Checking the View Actually Logs the User in	
+Finishing off our FT Testing Logout.
+
+The Persona Auth does not work.  The FT cannot find the new window.  When you run the server the new window does not pop up on click.  I'm not sure how pertinent this is to continuing
 1. Cover get_absolute_url again
 
